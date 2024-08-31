@@ -56,7 +56,7 @@ Welcome to the **Smart Agriculture Monitoring and Control System** repository! T
 The schematic diagram illustrates the connections between the ATmega32A microcontroller, sensors, actuators, ESP32 module, and other peripherals.
 (EASYEDA platfrom is used)
 
-![Schematic Diagram](./images/SchematicDiagram.png)
+![Schematic Diagram](./Images/SchematicDiagram.png)
 
 ### PCB Layout
 
@@ -122,7 +122,7 @@ A custom PCB was designed to house all components, ensuring a compact and organi
 
 - **View real-time environmental data** on the LCD display.
 - Data is also sent to Firebase for remote access and logging.
-  ![Display the data on LCD of the display](<./images/DisplayData(1).png>)
+  ![Display the data on LCD of the display](<./Images/DisplayData(1).png>)
   ![Display the data on LCD of the display](<./Images/DisplayDATA(2).png>)
   ![Display the data on LCD of the display](<./Images/DisplayDATA(3).png>)
   ![Display the data on LCD of the display](<./Images/DisplayDATA(4).png>)
