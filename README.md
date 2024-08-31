@@ -62,7 +62,7 @@ The schematic diagram illustrates the connections between the ATmega32A microcon
 
 A custom PCB was designed to house all components, ensuring a compact and organized setup. The PCB design files are included in the repository for reference and manufacturing.
 
-![Hardware Design](./Images/ComponentsDesign (1).png).
+![PCB Layout](./Images/PCBLayOut.png)
 ![PCB Layout](./Images/PCBLayOut.png)
 
 ## Getting Started
