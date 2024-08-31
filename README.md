@@ -87,7 +87,7 @@ A custom PCB was designed to house all components, ensuring a compact and organi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Smart_Agriculture_System.git
+   git clone https://github.com/IndunilThushara/Smart-Agriculture-System.git
    cd Smart_Agriculture_System
    ```
 
