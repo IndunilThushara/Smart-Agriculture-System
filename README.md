@@ -91,7 +91,8 @@ A custom PCB was designed to house all components, ensuring a compact and organi
    git clone https://github.com/IndunilThushara/Smart-Agriculture-System.git
    cd Smart_Agriculture_System
    ```
-
+2. **The code file for ESP32 Devkit V1 module is also here.** Use it for communicate with firebase via WIFI & please configure your WIFI SSID,PASSWORD ,DATABASE API and URL of the Firebase database.
+   
 ## Setup ATmega8 Microcontroller:
 
 1. **Connect the ATmega32A to your development environment.**
